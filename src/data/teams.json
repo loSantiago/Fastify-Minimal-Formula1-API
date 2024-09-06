@@ -1,0 +1,12 @@
+[
+    {"id":1,"equipe":"Red Bull Racing","carro":"RB19"},
+    {"id":2,"equipe":"Mercedes-AMG Petronas","carro":"W14"},
+    {"id":3,"equipe":"Ferrari","carro":"SF-23"},
+    {"id":4,"equipe":"McLaren","carro":"MCL60"},
+    {"id":5,"equipe":"Alpine","carro":"A523"},
+    {"id":6,"equipe":"Aston Martin","carro":"AMR23"},
+    {"id":7,"equipe":"AlphaTauri","carro":"AT04"},
+    {"id":8,"equipe":"Williams","carro":"FW45"},
+    {"id":9,"equipe":"Haas","carro":"VF-23"},
+    {"id":10,"equipe":"Alfa Romeo","carro":"C43"}
+]

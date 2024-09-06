@@ -1,0 +1,23 @@
+[
+    {"id":1,"piloto":"Max Verstappen","equipe":"Red Bull Racing"},
+    {"id":2,"piloto":"Sergio Pérez","equipe":"Red Bull Racing"},
+    {"id":3,"piloto":"Lewis Hamilton","equipe":"Mercedes-AMG Petronas"},
+    {"id":4,"piloto":"George Russell","equipe":"Mercedes-AMG Petronas"},
+    {"id":5,"piloto":"Charles Leclerc","equipe":"Ferrari"},
+    {"id":6,"piloto":"Carlos Sainz","equipe":"Ferrari"},
+    {"id":7,"piloto":"Lando Norris","equipe":"McLaren"},
+    {"id":8,"piloto":"Oscar Piastri","equipe":"McLaren"},
+    {"id":9,"piloto":"Esteban Ocon","equipe":"Alpine"},
+    {"id":10,"piloto":"Pierre Gasly","equipe":"Alpine"},
+    {"id":11,"piloto":"Fernando Alonso","equipe":"Aston Martin"},
+    {"id":12,"piloto":"Lance Stroll","equipe":"Aston Martin"},
+    {"id":13,"piloto":"Yuki Tsunoda","equipe":"AlphaTauri"},
+    {"id":14,"piloto":"Liam Lawson","equipe":"AlphaTauri"},
+    {"id":15,"piloto":"Alexander Albon","equipe":"Williams"},
+    {"id":16,"piloto":"Logan Sargeant","equipe":"Williams"},
+    {"id":17,"piloto":"Kevin Magnussen","equipe":"Haas"},
+    {"id":18,"piloto":"Nico Hülkenberg","equipe":"Haas"},
+    {"id":19,"piloto":"Valtteri Bottas","equipe":"Alfa Romeo"},
+    {"id":20,"piloto":"Guanyu Zhou","equipe":"Alfa Romeo"},
+    {"id":22,"piloto":"Romeo","equipe":"Alfa Romeo"}
+]
